@@ -1,6 +1,6 @@
 {
   "name": "merge-models",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> Simple utility to merge your models, i.e, mongoose models",
   "main": "index.js",
   "repository": {
