@@ -1,0 +1,29 @@
+{
+  "name": "merge-models",
+  "version": "0.0.0",
+  "description": "> Simple utility to merge your models, i.e, mongoose models",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwinbatres/merge-models.git"
+  },
+  "keywords": [
+    "merge",
+    "models",
+    "mongoose"
+  ],
+  "author": "Darwin Batres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darwinbatres/merge-models/issues"
+  },
+  "homepage": "https://github.com/darwinbatres/merge-models#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.19.1"
+  },
+  "dependencies": {
+    "lodash.camelcase": "^4.3.0"
+  }
+}
